@@ -10,6 +10,6 @@
 ## 🤝 Contributing
 Got a tip to share? Feel free to submit a pull request!
 
-## 📢 Follow Me
+## 🔔Click "Follow" and Turn On the Notification Bell Icon on the Saber Fazliahmadi Linkedin Page & GitHub Profile & YouTube Channel to See All My Future Posts & Won't Miss any Updates!
 - [LinkedIn](https://linkedin.com/in/saberfazliahmadi/)
 - [YouTube](https://www.youtube.com/@saberfazliahmadi)
