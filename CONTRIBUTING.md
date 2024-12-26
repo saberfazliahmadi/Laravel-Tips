@@ -1,4 +1,3 @@
-```markdown
 # Contributing to Laravel-Tips
 
 Thank you for considering contributing to **Laravel-Tips**! Your contributions help make this repository a better resource for developers. Below are the guidelines to help you submit your contributions effectively.
