@@ -1,6 +1,6 @@
-# 💡 PHP => LARAVEL TIP 
+# 💡 PHP => LARAVEL TIPS 
 
-🔰 Welcome to the **Laravel Tips** repository! This is a collection of tips, tricks, and best practices to help you master Laravel and build powerful, scalable applications.
+🔰 Welcome to the **PHP => LARAVEL TIPS** repository! This is a collection of tips, tricks, and best practices to help you master PHP => LARAVEL and build powerful, scalable applications.
 
 ## 📚 Contents
 - [Eloquent Relationships](./tips/001-eloquent-relationships.md)
