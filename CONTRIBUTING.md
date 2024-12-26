@@ -77,4 +77,3 @@ If you have questions, feel free to:
 - Reach out via [LinkedIn](https://linkedin.com/in/saberfazliahmadi/) or [YouTube](https://www.youtube.com/@saberfazliahmadi).
 
 Thank you for contributing and making **Laravel-Tips** better for everyone! 🚀
-```
