@@ -79,7 +79,3 @@ If you have questions, feel free to:
 
 Thank you for contributing and making **Laravel-Tips** better for everyone! 🚀
 ```
-
----
-
-You can now add this file to your repository by following the steps I provided earlier. Let me know if you need further assistance! 😊
