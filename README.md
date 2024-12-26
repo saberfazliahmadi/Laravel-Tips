@@ -1,6 +1,6 @@
-# 💡 PHP → LARAVEL TIPS
+# 💡 PHP => LARAVEL TIPS
 
-🔰 Welcome to the **PHP => LARAVEL TIPS** repository! This is a curated collection of tips, tricks, and best practices to help you master PHP => Laravel, empowering you to build robust, scalable applications with ease.
+🔰 Welcome to the **PHP → LARAVEL TIPS** repository! This is a curated collection of tips, tricks, and best practices to help you master PHP and Laravel, empowering you to build robust, scalable applications with ease.
 
 ---
 
@@ -8,6 +8,8 @@
 - [Eloquent Relationships](./tips/001-eloquent-relationships.md)
 - [Query Optimization](./tips/002-query-optimization.md)
 - [More Tips...](./tips/)
+- [Contributing Guidelines](./CONTRIBUTING.md)
+- [License](./LICENSE)
 
 ---
 
@@ -28,6 +30,11 @@ Don't miss out on the latest updates and tips!
 - [YouTube](https://www.youtube.com/@saberfazliahmadi)
 
 Hit the **"Follow"** button and turn on the notification bell 🔔 to stay updated with my latest posts and contributions.
+
+---
+
+## 📜 License
+This repository is licensed under the [MIT License](./LICENSE). Feel free to use, modify, and distribute this project as per the terms of the license.
 
 ---
 
