@@ -12,4 +12,4 @@ Got a tip to share? Feel free to submit a pull request!
 
 ## 📢 Follow Me
 - [LinkedIn](https://linkedin.com/in/saberfazliahmadi/)
-- [YouTube](https://www.youtube.com/c/@saberfazliahmadi)
+- [YouTube](https://www.youtube.com/@saberfazliahmadi)
