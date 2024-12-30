@@ -7,6 +7,7 @@
 ## 📚 Contents
 - [Eloquent Relationships](./tips/001-eloquent-relationships.md)
 - [Query Optimization](./tips/002-query-optimization.md)
+- [Don't Use Model Methods to Retrieve Data](./tips/003-dont-use-model-methods-for-retrieving-data.md)
 - [More Tips...](./tips/)
 - [Contributing Guidelines](./CONTRIBUTING.md)
 - [License](./LICENSE)
