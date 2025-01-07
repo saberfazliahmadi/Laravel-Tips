@@ -1,4 +1,4 @@
-### **002 - Query Optimization in Laravel**
+## 002 - 💡 Query Optimization in Laravel
 
 #### 🚀 **Why Optimize Queries?**
 Efficient queries improve application performance, reduce database load, and enhance user experience, especially for large datasets or high-traffic applications.
