@@ -1,4 +1,4 @@
-### **001 - Mastering Eloquent Relationships in Laravel**
+## 001 - 💡 Mastering Eloquent Relationships in Laravel
 
 #### 🚀 **Why Use Eloquent Relationships?**
 Eloquent relationships simplify the interaction between related database tables, allowing you to work with complex data models effortlessly.
