@@ -29,8 +29,10 @@ Let's learn and grow together! 🚀
 ## 🔔 Stay Updated
 Don't miss out on the latest updates and tips!  
 **Follow me on:**
-- [LinkedIn](https://linkedin.com/in/saberfazliahmadi/)
-- [YouTube](https://www.youtube.com/@saberfazliahmadi)
+- [LinkedIn Page](https://linkedin.com/in/saberfazliahmadi/)
+- [YouTube Channel](https://www.youtube.com/@saberfazliahmadi)
+- [WhatsApp Channel](https://chat.whatsapp.com/CQiVjxBLLT2FF7t85csDCU )
+- [Telegram Channel](https://t.me/+ZMsq1sQYqwZhZDJk)
 
 Hit the **"Follow"** button and turn on the notification bell 🔔 to stay updated with my latest posts and contributions.
 
