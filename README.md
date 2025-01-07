@@ -5,11 +5,11 @@
 ---
 
 ## 📚 Contents
-- [Eloquent Relationships](./tips/001-eloquent-relationships.md)
-- [Query Optimization](./tips/002-query-optimization.md)
-- [Don't Use Model Methods to Retrieve Data](./tips/003-dont-use-model-methods-for-retrieving-data.md)
-- [Simplify Cache Management with php artisan optimize:clearl Methods to Retrieve Data](./tips/004-use-optimize-clear-command.md)
-- [Cleaner Queries with Relationships](./005-querying-with-relationships.md)
+- 1 💡[Eloquent Relationships](./tips/001-eloquent-relationships.md)
+- 2 💡[Query Optimization](./tips/002-query-optimization.md)
+- 3 💡[Don't Use Model Methods to Retrieve Data](./tips/003-dont-use-model-methods-for-retrieving-data.md)
+- 4 💡[Simplify Cache Management with php artisan optimize:clearl Methods to Retrieve Data](./tips/004-use-optimize-clear-command.md)
+- 5 💡[Cleaner Queries with Relationships](./tips/005-querying-with-relationships.md)
 - [More Tips...](./tips/)
 - [Contributing Guidelines](./CONTRIBUTING.md)
 - [License](./LICENSE)
