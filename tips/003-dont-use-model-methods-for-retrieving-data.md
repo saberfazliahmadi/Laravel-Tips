@@ -1,4 +1,4 @@
-## 003 - Don't Use Model Methods to Retrieve Data
+## 003 - 💡 Don't Use Model Methods to Retrieve Data
 
 If you want to retrieve some data from a model, **create an accessor** instead of using methods.  
 Keep methods for things that **change the model** in some way.
