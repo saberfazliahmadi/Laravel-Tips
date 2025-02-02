@@ -82,4 +82,3 @@ Thank you for helping us make this repository a valuable resource for the Larave
 ---
 
 *Happy Coding & Visualizing!*
-```
