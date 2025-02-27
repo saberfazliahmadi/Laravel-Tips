@@ -1,4 +1,4 @@
-💡Laravel Tip => # 009-orwhere-query-mistake ⚡
+# 009 - 💡 Laravel Tip: orwhere query mistake
 
 ## Be Careful with `orWhere()` – Avoid Incorrect Filtering  
 
