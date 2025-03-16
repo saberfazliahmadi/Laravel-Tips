@@ -157,6 +157,14 @@ Master these approaches, and your Laravel queries will not only work efficiently
 
 ---
 
+Happy coding!
+
+---
+
+*Laravel Tips Repository by <a href="https://github.com/saberfazliahmadi/">Saber Fazliahmadi</a>*
+
+---
+
 ## 📚 LARAVEL TIPS Repository Contents:
 </br>
 1 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/001-eloquent-relationships.md" >Eloquent Relationships</a>  
@@ -176,6 +184,8 @@ Master these approaches, and your Laravel queries will not only work efficiently
 8 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/008-query-builder-where-methods.md" >Mastering whereAll, whereAny, orWhereAll, and orWhereAny</a>
 </br>
 9 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/009-orwhere-query-mistake.md" >Avoid orWhere() Pitfalls</a>
+</br>
+10 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/010-customizing-faker-locale-for-authentic-dummy-data.md" >Customizing Faker Locale for Authentic Dummy Data</a>
 </br>
 <a href="https://github.com/saberfazliahmadi/Laravel-Tips" >➡️More Tips...</a>
 </br>
