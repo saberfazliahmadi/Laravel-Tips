@@ -83,6 +83,14 @@ AND (`title` LIKE '%queue%' OR `content` LIKE '%queue%')
 
 ---
 
+Happy coding!
+
+---
+
+*Laravel Tips Repository by <a href="https://github.com/saberfazliahmadi/">Saber Fazliahmadi</a>*
+
+---
+
 ## 📚 LARAVEL TIPS Repository Contents:
 </br>
 1 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/001-eloquent-relationships.md" >Eloquent Relationships</a>  
