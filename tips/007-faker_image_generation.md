@@ -68,6 +68,12 @@ A URL like `https://via.placeholder.com/640x480` will be generated, ideal for mo
 
 By using Faker’s image capabilities, you can save time, improve your workflow, and focus on building awesome Laravel applications. 🚀  
 
+Happy coding!
+
+---
+
+*Laravel Tips Repository by <a href="https://github.com/saberfazliahmadi/">Saber Fazliahmadi</a>*
+
 ---
 
 ## 📚 LARAVEL TIPS Repository Contents:
@@ -89,6 +95,8 @@ By using Faker’s image capabilities, you can save time, improve your workflow,
 8 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/008-query-builder-where-methods.md" >Mastering whereAll, whereAny, orWhereAll, and orWhereAny</a>
 </br>
 9 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/009-orwhere-query-mistake.md" >Avoid orWhere() Pitfalls</a>
+</br>
+10 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/010-customizing-faker-locale-for-authentic-dummy-data.md" >Customizing Faker Locale for Authentic Dummy Data</a>
 </br>
 <a href="https://github.com/saberfazliahmadi/Laravel-Tips" >➡️More Tips...</a>
 </br>
