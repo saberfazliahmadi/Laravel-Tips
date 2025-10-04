@@ -51,6 +51,7 @@ Don't miss out on the latest updates and tips!
 **Follow me on:**
 - [LinkedIn Page](https://linkedin.com/in/saberfazliahmadi/)
 - [YouTube Channel](https://www.youtube.com/@saberfazliahmadi)
+- [Kaggle Page](https://www.kaggle.com/saberfazliahmadi)
 - [WhatsApp Channel](https://chat.whatsapp.com/CQiVjxBLLT2FF7t85csDCU )
 - [Telegram Channel](https://t.me/+ZMsq1sQYqwZhZDJk)
 
