@@ -22,7 +22,7 @@ While this works, it's less expressive, harder to read, and more prone to errors
 ---
 
 ### ✅ **What to Do Instead**  
-Use Laravel’s built-in relationship methods for more expressive and maintainable queries.  
+Use Laravel's built-in relationship methods for more expressive and maintainable queries.  
 
 ```php
 // Querying using relationships
@@ -42,7 +42,7 @@ $post->author->is($user);
    - Queries written this way are easier to read, write, and maintain.
    - The intent of the query is clear at a glance.
 
-2. **Leverages Laravel’s Relationship Features**  
+2. **Leverages Laravel's Relationship Features**  
    - Let Laravel handle the relationship logic for you, reducing boilerplate code.
    - Automatically handles type-safety and logic for relationships.
 
@@ -78,7 +78,7 @@ Use the scope like this:
 Post::byCategoryAndAuthor($category, $user)->first();
 ```
 
-This keeps your code clean and avoids additional overhead from Laravel’s relationship magic.
+This keeps your code clean and avoids additional overhead from Laravel's relationship magic.
 
 ---
 
@@ -109,7 +109,7 @@ This keeps your code clean and avoids additional overhead from Laravel’s relat
 
 ---
 
-This approach not only improves the maintainability of your code but also aligns with Laravel’s philosophy of clean and elegant syntax. Always test for performance in production-critical scenarios to strike the right balance between readability and efficiency!  
+This approach not only improves the maintainability of your code but also aligns with Laravel's philosophy of clean and elegant syntax. Always test for performance in production-critical scenarios to strike the right balance between readability and efficiency!  
 
 ---
 Happy coding!
@@ -142,6 +142,8 @@ Happy coding!
 </br>
 10 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/010-customizing-faker-locale-for-authentic-dummy-data.md" >Customizing Faker Locale for Authentic Dummy Data</a>
 </br>
+11 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/011-local-query-scopes.md" >Keep Queries Clean with Local Query Scopes</a>
+</br>
 <a href="https://github.com/saberfazliahmadi/Laravel-Tips" >➡️More Tips...</a>
 </br>
 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/CONTRIBUTING.md" >➡️Contributing Guidelines</a>
@@ -149,3 +151,5 @@ Happy coding!
 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/LICENSE" >➡️License</a>
 </br>
 </br>
+
+---

@@ -1,4 +1,4 @@
-## 004 - 💡 Simplify Cache Management with `php artisan optimize:clear`
+# 004 - 💡 Simplify Cache Management with `php artisan optimize:clear`
 
 Managing your application's caches efficiently is essential for smooth development and deployment in Laravel. Instead of running multiple commands to clear caches manually, Laravel provides the powerful **`php artisan optimize:clear`** command, which clears multiple caches in one go.
 
@@ -27,7 +27,7 @@ The **`optimize:clear`** command is a shortcut that combines the following cache
 
 ### 🛠️ How to Use
 
-Here’s how you can use this command to save time and effort:
+Here's how you can use this command to save time and effort:
 
 ```bash
 # Instead of running these commands individually:
@@ -65,7 +65,7 @@ php artisan optimize:clear
 
 ### Example Use Case
 
-Let’s say you update your `.env` file, Blade templates, or routes during development. Instead of running separate commands for each cache type, simply run:
+Let's say you update your `.env` file, Blade templates, or routes during development. Instead of running separate commands for each cache type, simply run:
 
 ```bash
 php artisan optimize:clear
@@ -108,6 +108,8 @@ Happy coding!
 9 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/009-orwhere-query-mistake.md" >Avoid orWhere() Pitfalls</a>
 </br>
 10 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/010-customizing-faker-locale-for-authentic-dummy-data.md" >Customizing Faker Locale for Authentic Dummy Data</a>
+</br>
+11 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/011-local-query-scopes.md" >Keep Queries Clean with Local Query Scopes</a>
 </br>
 <a href="https://github.com/saberfazliahmadi/Laravel-Tips" >➡️More Tips...</a>
 </br>

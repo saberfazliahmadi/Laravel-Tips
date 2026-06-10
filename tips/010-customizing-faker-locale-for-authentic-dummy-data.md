@@ -2,11 +2,11 @@
 
 # Customizing Faker Locale for Authentic Dummy Data
 
-Generating realistic dummy data is essential for testing, seeding, and showcasing your Laravel applications. By default, Faker uses the `en_US` locale, which might not represent the diversity of your user base. This tip demonstrates how to configure Faker’s locale to generate culturally relevant data.
+Generating realistic dummy data is essential for testing, seeding, and showcasing your Laravel applications. By default, Faker uses the `en_US` locale, which might not represent the diversity of your user base. This tip demonstrates how to configure Faker's locale to generate culturally relevant data.
 
 ## Overview
 
-Laravel’s Faker library is a powerful tool for creating sample data. However, when your application targets a global audience, using the default locale may not be ideal. Customizing the locale helps you simulate real-world data more accurately—whether you're targeting Iranian users or any other region.
+Laravel's Faker library is a powerful tool for creating sample data. However, when your application targets a global audience, using the default locale may not be ideal. Customizing the locale helps you simulate real-world data more accurately—whether you're targeting Iranian users or any other region.
 
 ## Step-by-Step Guide
 
@@ -53,12 +53,12 @@ Switching locales is as easy as changing one environment variable, letting you q
 ## Best Practices
 
 - **Use Environment-Specific Settings:** Consider different locale settings for development, staging, and production to match your target demographics.
-- **Keep Documentation Updated:** Ensure your team understands how to adjust Faker’s locale for various testing scenarios.
+- **Keep Documentation Updated:** Ensure your team understands how to adjust Faker's locale for various testing scenarios.
 - **Version Control Configuration:** Track changes to your locale settings in version control to maintain consistency across environments.
 
 ## Conclusion
 
-Customizing Faker’s locale is a simple yet powerful enhancement for your Laravel projects. It enables you to generate more authentic and region-specific dummy data, improving both testing accuracy and the overall user experience. Experiment with different locales to tailor your application to a global audience.
+Customizing Faker's locale is a simple yet powerful enhancement for your Laravel projects. It enables you to generate more authentic and region-specific dummy data, improving both testing accuracy and the overall user experience. Experiment with different locales to tailor your application to a global audience.
 
 Happy coding!
 
@@ -90,6 +90,8 @@ Happy coding!
 </br>
 10 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/010-customizing-faker-locale-for-authentic-dummy-data.md" >Customizing Faker Locale for Authentic Dummy Data</a>
 </br>
+11 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/011-local-query-scopes.md" >Keep Queries Clean with Local Query Scopes</a>
+</br>
 <a href="https://github.com/saberfazliahmadi/Laravel-Tips" >➡️More Tips...</a>
 </br>
 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/CONTRIBUTING.md" >➡️Contributing Guidelines</a>
@@ -97,3 +99,5 @@ Happy coding!
 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/LICENSE" >➡️License</a>
 </br>
 </br>
+
+---

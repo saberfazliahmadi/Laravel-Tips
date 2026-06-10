@@ -9,7 +9,7 @@ Laravel continuously evolves, making database queries more **efficient, readable
 🔹 `orWhereAll()` → Works like `whereAll` but applies an **OR condition**.  
 🔹 `orWhereAny()` → Works like `whereAny` but with an **OR condition**.  
 
-These methods **eliminate complex closures**, making queries **shorter, faster, and more readable**! Let’s explore them in depth.  
+These methods **eliminate complex closures**, making queries **shorter, faster, and more readable**! Let's explore them in depth.  
 
 ---
 
@@ -170,6 +170,8 @@ Happy coding!
 9 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/009-orwhere-query-mistake.md" >Avoid orWhere() Pitfalls</a>
 </br>
 10 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/010-customizing-faker-locale-for-authentic-dummy-data.md" >Customizing Faker Locale for Authentic Dummy Data</a>
+</br>
+11 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/011-local-query-scopes.md" >Keep Queries Clean with Local Query Scopes</a>
 </br>
 <a href="https://github.com/saberfazliahmadi/Laravel-Tips" >➡️More Tips...</a>
 </br>

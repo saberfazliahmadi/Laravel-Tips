@@ -1,4 +1,4 @@
-## 006 - 💡 Laravel Tip: Supercharge Your Queries with Dynamic `where` Methods
+# 006 - 💡 Laravel Tip: Supercharge Your Queries with Dynamic `where` Methods
 
 Writing elegant, maintainable queries is a hallmark of a great Laravel developer. One of Laravel's hidden gems is **dynamic `where` methods**, which can transform your query-building process into something magical ✨.
 
@@ -8,12 +8,12 @@ This guide explores three approaches to handling multiple conditions in Laravel,
 
 ## 🔍 **Why Use Dynamic `where` Methods?**
 
-Laravel’s dynamic `where` methods are designed to:
+Laravel's dynamic `where` methods are designed to:
 - 🧹 **Reduce verbosity**: Simplify your queries with cleaner syntax.
 - 🔧 **Boost maintainability**: Avoid repetitive code when dealing with common query patterns.
 - 🛡️ **Minimize errors**: Use field names directly in methods, reducing typos in your code.
 
-Let’s break down the options you have and why dynamic `where` methods should be in your toolkit.
+Let's break down the options you have and why dynamic `where` methods should be in your toolkit.
 
 ---
 
@@ -42,7 +42,7 @@ Product::query()
 Dynamic `where` methods allow you to turn field names into method names. For instance:
 - `where('category', 'books')` ➡️ becomes ➡️ `whereCategory('books')`.
 
-Here’s the same query as above, rewritten with dynamic `where` methods:
+Here's the same query as above, rewritten with dynamic `where` methods:
 
 ```php
 Product::query()
@@ -69,7 +69,7 @@ Product::query()
     ->get();
 ```
 
-Here’s what’s happening:
+Here's what's happening:
 - The method name `whereCategoryAndTitle` combines the fields `category` and `title`.
 - The parameters are passed in the same order as the fields (`books`, `Laravel Secrets`).
 
@@ -81,7 +81,7 @@ Here’s what’s happening:
 
 ## 🔍 **How Dynamic `where` Methods Work**
 
-Laravel dynamically resolves method names like `whereCategory` or `whereCategoryAndTitle` using PHP’s magic method `__call()`. Behind the scenes:
+Laravel dynamically resolves method names like `whereCategory` or `whereCategoryAndTitle` using PHP's magic method `__call()`. Behind the scenes:
 - `whereCategory('books')` ➡️ translates to:
   ```php
   ->where('category', 'books');
@@ -108,9 +108,9 @@ This magic ensures your queries are both expressive and functional, without requ
 
 ## 🧠 **Deep Dive Example**
 
-Imagine you’re building an e-commerce platform and want to fetch all products in the "Books" category with the title "Laravel Secrets."
+Imagine you're building an e-commerce platform and want to fetch all products in the "Books" category with the title "Laravel Secrets."
 
-Here’s how you can achieve this using each approach:
+Here's how you can achieve this using each approach:
 
 ### **Classic `where`:**
 ```php
@@ -141,7 +141,7 @@ $products = Product::query()
 
 1. **Leverage IDE Autocompletion**: IDEs like PHPStorm can autocomplete dynamic methods, reducing typos and speeding up development.
 2. **Avoid Overuse**: While dynamic methods are great for readability, avoid using them for highly dynamic queries where field names or conditions are generated at runtime.
-3. **Use Combined Methods for Reusability**: If you often filter by the same combination of fields, combined methods make your code cleaner and more DRY (Don’t Repeat Yourself).
+3. **Use Combined Methods for Reusability**: If you often filter by the same combination of fields, combined methods make your code cleaner and more DRY (Don't Repeat Yourself).
 
 ---
 
@@ -186,6 +186,8 @@ Happy coding!
 9 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/009-orwhere-query-mistake.md" >Avoid orWhere() Pitfalls</a>
 </br>
 10 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/010-customizing-faker-locale-for-authentic-dummy-data.md" >Customizing Faker Locale for Authentic Dummy Data</a>
+</br>
+11 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/011-local-query-scopes.md" >Keep Queries Clean with Local Query Scopes</a>
 </br>
 <a href="https://github.com/saberfazliahmadi/Laravel-Tips" >➡️More Tips...</a>
 </br>
