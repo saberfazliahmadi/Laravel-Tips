@@ -1,4 +1,4 @@
-# 007 - 💡 Laravel Tip: Generate Fake Images and URLs with Faker
+﻿# 007 - 💡 Laravel Tip: Generate Fake Images and URLs with Faker
 
 The **Faker** library in Laravel is not just for text-based fake data; it also allows you to generate **fake images** and **placeholder image URLs**. This feature is invaluable for seeding databases, testing file uploads, or prototyping image-heavy applications.
 
@@ -99,6 +99,8 @@ Happy coding!
 10 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/010-customizing-faker-locale-for-authentic-dummy-data.md" >Customizing Faker Locale for Authentic Dummy Data</a>
 </br>
 11 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/011-local-query-scopes.md" >Keep Queries Clean with Local Query Scopes</a>
+</br>
+12 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/012-update-or-create-first-or-create.md" >Atomic Find-or-Create with updateOrCreate, firstOrCreate, and firstOrNew</a>
 </br>
 <a href="https://github.com/saberfazliahmadi/Laravel-Tips" >➡️More Tips...</a>
 </br>

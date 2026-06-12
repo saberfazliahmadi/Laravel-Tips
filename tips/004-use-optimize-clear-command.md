@@ -1,4 +1,4 @@
-# 004 - 💡 Simplify Cache Management with `php artisan optimize:clear`
+﻿# 004 - 💡 Simplify Cache Management with `php artisan optimize:clear`
 
 Managing your application's caches efficiently is essential for smooth development and deployment in Laravel. Instead of running multiple commands to clear caches manually, Laravel provides the powerful **`php artisan optimize:clear`** command, which clears multiple caches in one go.
 
@@ -110,6 +110,8 @@ Happy coding!
 10 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/010-customizing-faker-locale-for-authentic-dummy-data.md" >Customizing Faker Locale for Authentic Dummy Data</a>
 </br>
 11 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/011-local-query-scopes.md" >Keep Queries Clean with Local Query Scopes</a>
+</br>
+12 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/012-update-or-create-first-or-create.md" >Atomic Find-or-Create with updateOrCreate, firstOrCreate, and firstOrNew</a>
 </br>
 <a href="https://github.com/saberfazliahmadi/Laravel-Tips" >➡️More Tips...</a>
 </br>
