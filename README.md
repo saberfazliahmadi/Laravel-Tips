@@ -70,4 +70,4 @@ This repository is licensed under the [MIT License](./LICENSE). Feel free to use
 
 ---
 
-Happy coding! 😊
+Happy coding 😊
