@@ -32,7 +32,7 @@
 </br>
 13 - 💡 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/tips/013-eager-loading-specific-columns.md" >Eager Loading with Specific Columns</a>
 </br>
-<a href="https://github.com/saberfazliahmadi/Laravel-Tips" >➡️More Tips...</a>
+<a href="https://github.com/saberfazliahmadi/Laravel-Tips/tree/main/tips" >➡️More Tips...</a>
 </br>
 <a href="https://github.com/saberfazliahmadi/Laravel-Tips/blob/main/CONTRIBUTING.md" >➡️Contributing Guidelines</a>
 </br>
