@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="./images/The_Laravel_Engineering_Blueprint_Slide_1.png">
+    <img src="./images/The_Laravel_Engineering_Blueprint_Slide_1.png" alt="Laravel Engineering Blueprint" width="1200" />
+  </a>
+</p>
+
 # 💡 Laravel Tips
 
 A curated collection of practical Laravel tips, patterns, and best practices for building cleaner, faster, and more maintainable PHP applications.
